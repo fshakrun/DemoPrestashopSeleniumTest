@@ -2,6 +2,6 @@
 ![2024-04-17_15-28-48](https://github.com/fshakrun/DemoPrestashopSeleniumTest/assets/82056292/97f474de-419f-45ab-98f8-2e504b3f00dd)
 
 
-'''python -m pytest --alluredir allure-report'''
+```python -m pytest --alluredir allure-report```
 
-'''allure serve allure-report'''
+```allure serve allure-report```
